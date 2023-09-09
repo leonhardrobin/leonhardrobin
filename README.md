@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Leon</h1>
-<h3 align="center">Lead Programmer of Roguebot - <a href="https://store.steampowered.com/app/2356930/Roguebot/">Check it out on Steam!</a></h3>
+<h3 align="center">Lead Programmer and Publisher of Roguebot - <a href="https://store.steampowered.com/app/2356930/Roguebot/">Check it out on Steam!</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
